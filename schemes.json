@@ -1,0 +1,26 @@
+[
+  {
+    "title": "PM-KISAN",
+    "description": "Provides ₹6000 per year to eligible small and marginal farmers in 3 installments.",
+    "state": "All India",
+    "link": "https://pmkisan.gov.in/"
+  },
+  {
+    "title": "Pradhan Mantri Fasal Bima Yojana",
+    "description": "Crop insurance scheme to cover loss due to natural calamities.",
+    "state": "All India",
+    "link": "https://pmfby.gov.in/"
+  },
+  {
+    "title": "Soil Health Card Scheme",
+    "description": "Soil testing and fertilizer recommendations to farmers.",
+    "state": "All India",
+    "link": "https://soilhealth.dac.gov.in/"
+  },
+  {
+    "title": "Kisan Credit Card (KCC)",
+    "description": "Low-interest credit facility for farmers.",
+    "state": "All India",
+    "link": "https://www.india.gov.in/kisan-credit-card"
+  }
+]
