@@ -1,14 +1,22 @@
 [
   {
-    "title": "PM-KISAN",
-    "description": "Income support of ₹6000 to farmers",
-    "eligibility": "Small & marginal farmers",
-    "link": "https://pmkisan.gov.in/"
+    "name": "PM-KISAN",
+    "description": "Provides ₹6000 per year to small and marginal farmers",
+    "link": "https://pmkisan.gov.in"
   },
   {
-    "title": "Soil Health Card",
-    "description": "Soil testing information for farmers",
-    "eligibility": "All farmers",
-    "link": "https://soilhealth.dac.gov.in/"
+    "name": "Pradhan Mantri Fasal Bima Yojana",
+    "description": "Crop insurance scheme covering losses due to natural calamities",
+    "link": "https://pmfby.gov.in"
+  },
+  {
+    "name": "Soil Health Card Scheme",
+    "description": "Provides soil quality report and fertilizer recommendations",
+    "link": "https://soilhealth.dac.gov.in"
+  },
+  {
+    "name": "Kisan Credit Card (KCC)",
+    "description": "Low-interest loans for agricultural and allied activities",
+    "link": "https://www.india.gov.in/kisan-credit-card"
   }
 ]
